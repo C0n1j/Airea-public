@@ -1,4 +1,4 @@
-# 🌬️ Airea
+# Airea
 
 <p align="center">
   <img src="https://bfppahwpazxifqfdhpxb.supabase.co/storage/v1/object/public/logo/Airea.png" alt="Airea Logo" width="200"/>
