@@ -16,10 +16,10 @@
 
 <p align="center">
   <a href="https://airea.info.c0n1j.es">
-    <img src="https://img.shields.io/badge/🌐_Visita_la_Web-Airea-blue?style=flat-square" alt="Web">
+    <img src="https://img.shields.io/badge/🌐_Web-Airea-blue?style=for-the-badge" alt="Web">
   </a>
-  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/github/last-commit/VoltAgent/awesome-design-md?label=Last%20update&style=flat-square" alt="Last Update">
+  <img src="https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Versión-v0.0.5-3ECF8E?style=for-the-badge" alt="Version">
 </p>
 
 ---
