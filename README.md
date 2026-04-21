@@ -55,7 +55,7 @@
 ---
 
 ## 🚀 Versiones
-Las actualizaciones y nuevas builds (APK/IPA) se publicarán periódicamente en la sección de [Releases](https://github.com/tu-usuario/airea/releases) de este repositorio. 
+Las actualizaciones y nuevas builds (APK/IPA) se publicarán periódicamente en la sección de [Releases](https://github.com/Airea-app/Airea-public/releases) de este repositorio. 
 
 > [!TIP]
 > Si quieres probar la versión más reciente sin instalar nada, visita nuestra [Web App](https://airea.info.c0n1j.es).
